@@ -1,0 +1,4 @@
+dua:
+  sefaz:
+    url: "https://sefaz.es.gov.br/duaservice.asmx"
+    environment: "PRODUCAO" # ou "HOMOLOGACAO"
